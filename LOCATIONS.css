@@ -1,0 +1,104 @@
+.u-section-1 {
+  background-image: none;
+  min-height: 707px;
+}
+
+.u-section-1 .u-shape-1 {
+  animation-duration: 1000ms;
+  height: 114px;
+  margin-top: 329px;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-text-1 {
+  margin: -382px calc(((100% - 1140px) / 2) + 230px) 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 20px 310px 0;
+}
+
+.u-section-1 .u-map-1 {
+  height: 368px;
+  width: 1140px;
+  margin: 30px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    width: 680px;
+    margin-top: -383px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 680px;
+    margin-left: calc(((100% - 1140px) / 2) + 230px);
+    margin-right: calc(((100% - 1140px) / 2) + 230px);
+  }
+
+  .u-section-1 .u-map-1 {
+    width: 940px;
+    margin-left: calc(((100% - 1140px) / 2) + 100px);
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-shape-1 {
+    margin-top: -330px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 100px;
+    margin-left: calc(((100% - 720px) / 2) + 20px);
+    margin-right: calc(((100% - 720px) / 2) + 20px);
+  }
+
+  .u-section-1 .u-map-1 {
+    width: 720px;
+    margin-left: calc(((100% - 1140px) / 2) + 210px);
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    width: 540px;
+    margin-left: calc(((100% - 1140px) / 2) + 300px);
+    margin-right: calc(((100% - 1140px) / 2) + 300px);
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 540px;
+    margin-left: calc(((100% - 1140px) / 2) + 300px);
+    margin-right: calc(((100% - 1140px) / 2) + 300px);
+  }
+
+  .u-section-1 .u-map-1 {
+    width: 540px;
+    margin-left: calc(((100% - 1140px) / 2) + 300px);
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-shape-1 {
+    margin-top: -318px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 340px;
+    margin-top: 30px;
+    margin-left: calc(((100% - 340px) / 2));
+    margin-right: calc(((100% - 340px) / 2));
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 340px;
+    margin-left: calc(((100% - 1140px) / 2) + 400px);
+    margin-right: calc(((100% - 1140px) / 2) + 400px);
+  }
+
+  .u-section-1 .u-map-1 {
+    width: 340px;
+    margin-bottom: 0;
+    margin-left: calc(((100% - 1140px) / 2) + 400px);
+  }
+}
